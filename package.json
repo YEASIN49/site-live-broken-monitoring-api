@@ -1,0 +1,12 @@
+{
+  "name": "site-up-down-monitoor-api",
+  "version": "0.0.1",
+  "description": "This api noify users when a listed site is live or down",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md. Yeasin Ali",
+  "license": "ISC"
+}
